@@ -6,6 +6,7 @@
 
 ### Swagger
 *LOCAL*
+
 [Swagger Any API](http://localhost:8083/swagger-ui/index.html#/)
 
 [Swagger Auth API](http://localhost:8082/swagger-ui/index.html#/)
